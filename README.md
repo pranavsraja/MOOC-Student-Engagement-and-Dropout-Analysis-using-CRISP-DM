@@ -57,7 +57,7 @@ The study is structured using the **CRISP-DM** framework:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/MOOC-Engagement-Analysis.git
+git clone https://github.com/pranavsraja/MOOC-Engagement-Analysis.git
 ```
 2. Open and review the `AnalysisReport.pdf` for full results and visualizations.
 
